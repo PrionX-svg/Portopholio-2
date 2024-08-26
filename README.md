@@ -1,1 +1,2 @@
-# Portopholio-1
+# Portopholio-2
+A frontend project in Human and Computer Interaction course
